@@ -8,6 +8,7 @@ Explore my repositories: [fpga-vision-enhancement](https://github.com/DyDuy/fpga
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/duy-cao-kh%C3%A1nh-178021407/)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duy.khanh.815484)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/DyDuy)
 
 ## 💻 Tech Stack
 
