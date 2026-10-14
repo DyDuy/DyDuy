@@ -22,4 +22,7 @@ Languages shown in my public repositories — each badge links to an example:
 
 [![DyDuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DyDuy&show_icons=true&theme=github_dark&hide_border=false)](https://github.com/DyDuy)
 
+[![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DyDuy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards#top-languages-used-in-repository-card)
+[![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DyDuy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards#top-languages-in-commits-card)
+
 [View my GitHub profile](https://github.com/DyDuy) · Card by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card).
