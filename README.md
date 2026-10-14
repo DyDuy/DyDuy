@@ -20,6 +20,8 @@ Languages shown in my public repositories — each badge links to an example:
 
 ## 📊 GitHub Stats
 
+[![DyDuy's GitHub contribution summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DyDuy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards#profile-details-card)
+
 [![DyDuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DyDuy&show_icons=true&theme=github_dark&hide_border=false)](https://github.com/DyDuy)
 
 [![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DyDuy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards#top-languages-used-in-repository-card)
