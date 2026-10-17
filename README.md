@@ -7,11 +7,19 @@
 
 ## 👋 About Me
 
-I build FPGA/SoC and DSP systems, with experience in RTL design, verification and timing, and signal and image processing. My [FPGA vision enhancement project](https://github.com/DyDuy/fpga-vision-enhancement) brings these areas together.
-<!-- Sources: cv-review-1.png, Academic Experience; cv-review-2.png, Skills (HDL & RTL Design, Verification & Timing, DSP Hardware, Signal & Image Processing). -->
-
-My signal-processing experience includes passive acoustic monitoring for shrimp aquaculture and feeding-signal recognition.
-<!-- Sources: cv-review-1.png, Work Experience; cv-review-2.png, continuation of Work Experience (DSP Architecture, Deep Learning Integration). -->
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>I build FPGA/SoC and DSP systems, with experience in RTL design, verification and timing, and signal and image processing. My <a href="https://github.com/DyDuy/fpga-vision-enhancement">FPGA vision enhancement project</a> brings these areas together.</p>
+      <!-- Sources: cv-review-1.png, Academic Experience; cv-review-2.png, Skills (HDL & RTL Design, Verification & Timing, DSP Hardware, Signal & Image Processing). -->
+      <p>My signal-processing experience includes passive acoustic monitoring for shrimp aquaculture and feeding-signal recognition.</p>
+      <!-- Sources: cv-review-1.png, Work Experience; cv-review-2.png, continuation of Work Experience (DSP Architecture, Deep Learning Integration). -->
+    </td>
+    <td width="40%" valign="middle">
+      <img src="assets/fpga-about-image.png" width="100%" alt="Blue-lit processor on a circuit board" />
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Featured Projects
 
