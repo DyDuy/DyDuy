@@ -1,5 +1,8 @@
-<h1 align="center"><a href="https://github.com/DyDuy">Cao Khanh Duy</a></h1>
-<p align="center"><strong>FPGA/SoC Design Engineer | DSP Hardware Design</strong></p>
+<p align="center">
+  <a href="https://github.com/DyDuy">
+    <img src="assets/profile-name-banner.svg" width="100%" alt="Cao Khanh Duy — FPGA/SoC Design Engineer | DSP Hardware Design" />
+  </a>
+</p>
 <!-- Source: cv-review-1.png, CV header (name and role). -->
 
 ## 👋 About Me
